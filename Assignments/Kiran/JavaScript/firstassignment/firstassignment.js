@@ -8,4 +8,3 @@ if (hours <= 12)
 else{
     console.log("Current time is : " + (hours-12) + " PM "+ ":" + date.getMinutes() + ":" + date.getSeconds())
 }
-
